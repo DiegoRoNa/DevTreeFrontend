@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@layer components {
+    .bg-home {
+        background-image: url('/bg.svg');
+        background-size: 50% auto;
+    }
+}
